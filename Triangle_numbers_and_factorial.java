@@ -1,4 +1,3 @@
-
 public class Triangle_numbers_and_factorial {
     public static void main(String[] args) {
         int n = 5;
